@@ -4,6 +4,7 @@ int main()
 {
     int n, a, b, c;
 
+    for(n=100;n<999;n++)
     {
         a=n/100;
         b=n/10%10;
