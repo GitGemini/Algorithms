@@ -12,7 +12,7 @@ int less(const char* s, int p, int q){
         if(P != Q)
             return P<Q;
     }
-    return 0;//ÏàµÈ
+    return 0;//ç›¸ç­‰
 }
 
 int main(){
